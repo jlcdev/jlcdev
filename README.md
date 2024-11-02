@@ -2,27 +2,11 @@
 <p>My name is Javier, I'm from Barcelona, ​​Spain and I'm a backend developer.</p>
 
 ## 💻 Skills
-<h4>📎 Languages</h4>
+<h4>👨‍💻 Main Set</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,r,cpp,haskell,latex&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,jest,py,flask,pytorch,postgres,mongodb,git,docker,astro,tailwind,regex&perline=7" />
 </p>
-<h4>💾 Databases</h4>
+<h4>🧰 Other knowledge</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite" />
-</p>
-<h4>🛠️ Development Environment</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,linux,bash,nodejs,deno,electron,npm,pnpm,androidstudio,postman,vim,vite&perline=6" />
-</p>
-<h4>🏗️ Testing && CI/CD</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,jest,jenkins,docker,kubernetes" />
-</p>
-<h4>🔬 Data Science</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn" />
-</p>
-<h4>🧰 Frameworks and others</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,astro,bootstrap,express,fastapi,flask,nextjs,prisma,rabbitmq,react,regex,sequelize,sketchup,tailwind,threejs,wasm&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,r,cpp,haskell,latex,redis,mysql,sqlite,nginx,linux,bash,deno,electron,npm,pnpm,androidstudio,postman,vim,vite,githubactions,jenkins,kubernetes,anaconda,opencv,sklearn,arduino,bootstrap,fastapi,flask,nextjs,prisma,rabbitmq,react,sequelize,sketchup,threejs,wasm&perline=10" />
 </p>
