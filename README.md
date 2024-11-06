@@ -4,7 +4,7 @@
 <h2>💻 Skills</h2>
 <h4>👨‍💻 Main Set</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,jest,java,py,flask,pytorch,sklearn,postgres,mongodb,redis,git,docker,sequelize&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,jest,java,py,flask,pytorch,postgres,mongodb,redis,git,docker,sequelize&perline=7" />
 </p>
 <h4>🧰 Other knowledge</h4>
 <p align="center">
