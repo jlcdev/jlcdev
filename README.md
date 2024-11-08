@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋</h1>
 <p>My name is Javier, I'm from Barcelona, ​​Spain.</p>
-<p>I'm a backend developer with a strong foundation in Node.js and data science, holding a degree in Computer Engineering and a Master’s in Data Science.</p>
+<p>I'm a backend developer with a strong foundation in Node.js and data science</p>
 
 <h2>💻 Skills</h2>
 <h4>👨‍💻 Main Set</h4>
