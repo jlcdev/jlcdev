@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋</h1>
 <p>My name is Javier, I'm from Barcelona, ​​Spain.</p>
-<p>I'm a FullStack Developer with a strong foundation in Web Development, Data Science and Machine Learning.</p>
+<p>I'm a Full Stack Developer with a strong foundation in Web Development, Data Science and Machine Learning.</p>
 
 <h2>💻 Skills</h2>
 <h4>👨‍💻 Main Set:</h4>
